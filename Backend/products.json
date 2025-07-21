@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Redmi Note 13",
+    "category": "smartphone",
+    "price": 14999,
+    "features": ["AMOLED", "Snapdragon", "6GB RAM"]
+  },
+  {
+    "id": 2,
+    "name": "Samsung M14",
+    "category": "smartphone",
+    "price": 13499,
+    "features": ["LCD", "Exynos", "6GB RAM"]
+  },
+  {
+    "id": 3,
+    "name": "Realme Narzo 60",
+    "category": "smartphone",
+    "price": 17999,
+    "features": ["AMOLED", "Dimensity", "8GB RAM"]
+  }
+]
