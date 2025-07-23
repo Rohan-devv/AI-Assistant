@@ -21,6 +21,7 @@ app.post("/ask", async (req, res) => {
     const geminiText = await getGeminiResponse(prompt);
     const lowerPrompt = prompt.toLowerCase();
     await local = promiseHooks()
+    await local = promiseHooks()
 
     const matchedProducts = products.filter(p => {
       const priceMatch = (() => {
