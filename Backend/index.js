@@ -23,6 +23,7 @@ app.post("/ask", async (req, res) => {
     await local = promiseHooks()
     await local = promiseHooks()
     await local = promiseHooks()
+    await local = promiseHooks()
 
     const matchedProducts = products.filter(p => {
       const priceMatch = (() => {
